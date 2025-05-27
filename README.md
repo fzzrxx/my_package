@@ -16,5 +16,5 @@ Make sure you have a ROS 2 workspace set up. Then clone this repository into the
 
 ```bash
 cd ~/ros2_ws/src
-git clone https://github.com/yourusername/your_repo_name.git
+git clone https://github.com/yourusername/ros2_ws2.git
 
